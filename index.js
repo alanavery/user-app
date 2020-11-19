@@ -1,6 +1,6 @@
 let db = require('./models');
 
-// —————————————————————————————— N:M methods
+// —————————————————————————————— M:M methods
 
 // Add a unique toy to a pet
 
